@@ -11,4 +11,4 @@ Here is the UI/UX design for a mobile application's authentication flow, created
 ![Sign up Screen](path/to/your/signup_screen_image.png)
 
 ### Login Screen
-![Login Screen](path/to/your/login_screen_image.png)
+![Login Screen](Login page.png)
