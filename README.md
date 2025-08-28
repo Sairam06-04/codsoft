@@ -20,7 +20,7 @@ This project showcases the UI/UX design for a mobile app's authentication proces
 
 Click the image below to open the live, interactive prototype in Figma.
 
-[![Mobile App Signup Flow](Mobile-Signup-page-and-longin-page@3x.png)](https://www.figma.com/proto/GKdbEEHo11dlXGuxEOkcJa/Mobile-Signup-page-and-longin-page?t=ddsrcIfy83Bv6ULP-1)
+[![Mobile App Signup Flow](Mobile-Signup-page-and-longin-page@3x.png)](https://www.figma.com/design/GKdbEEHo11dlXGuxEOkcJa/Mobile-Signup-page-and-longin-page?t=ddsrcIfy83Bv6ULP-1)
 
 <p align="center">
   <a href="https://www.figma.com/file/your-copied-link-here">
