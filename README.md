@@ -1,9 +1,5 @@
 # Mobile App Login & Signup Flow
-
 Here is the UI/UX design for a mobile application's authentication flow, created in Figma.
-
-# Mobile App Login & Signup Flow
-
 This project showcases the UI/UX design for a mobile app's authentication process.
 
 ## Interactive Prototype
